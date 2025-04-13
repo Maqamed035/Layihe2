@@ -87,7 +87,7 @@ imageElement.addEventListener("mouseout", () => {
         imageElement.src = images.photo3;
     }
 });
-
+ 
 let isAscending = true;
 
 imageElement.addEventListener("click", () => {
